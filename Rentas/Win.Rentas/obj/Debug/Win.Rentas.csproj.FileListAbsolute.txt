@@ -1,0 +1,134 @@
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.pdb
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\FlashControlV71.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\stdole.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll.config
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormClientes.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormFactura.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormLogin.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormMenu.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProductos.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormRentas.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormReporteFacturas.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormReporteProductos.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.Properties.Resources.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csproj.GenerateResource.Cache
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProveedores.resources
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormCompras.resources
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.pdb
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.Shared.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\FlashControlV71.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\ShockwaveFlashObjects.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\stdole.dll
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.pdb
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.xml
+E:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csprojResolveAssemblyReference.cache
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormClientes.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormCompras.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormFactura.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormLogin.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormMenu.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProductos.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProveedores.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormRentas.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormReporteFacturas.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormReporteProductos.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.Properties.Resources.resources
+E:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csproj.GenerateResource.Cache
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.pdb
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.Shared.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\FlashControlV71.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\ShockwaveFlashObjects.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\stdole.dll
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.pdb
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll.config
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.xml
+G:\rentas-master\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csprojResolveAssemblyReference.cache
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormClientes.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormCompras.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormFactura.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormLogin.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormMenu.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProductos.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProveedores.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormRentas.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormReporteFacturas.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormReporteProductos.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.Properties.Resources.resources
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csproj.GenerateResource.Cache
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+G:\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+C:\Users\Cesar\Pictures\listo\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Cesar\Pictures\listo\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Cesar\Pictures\listo\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb

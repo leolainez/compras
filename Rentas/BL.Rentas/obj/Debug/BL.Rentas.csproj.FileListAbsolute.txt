@@ -1,0 +1,30 @@
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll.config
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
+E:\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll.config
+E:\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+E:\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+E:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.dll
+E:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+E:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.xml
+E:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+E:\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+E:\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+E:\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
+G:\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll.config
+G:\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+G:\rentas-master\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+G:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.dll
+G:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+G:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.xml
+G:\rentas-master\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+G:\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+G:\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+G:\rentas-master\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
